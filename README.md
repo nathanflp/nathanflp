@@ -6,17 +6,18 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java.
+🔭 eu sou desenvolvedor Back-end e atualmente trabalho com Java.
 
 
 🌱 Atualmente tenho focado meus estudos em rabbitmq e docker.
+
 
 💬 Sou entusiasta no desenvolvimento Java para APIs.
 
 
 </div>
 <div align="center">
-  <a href="https://github.com/MateusSouzaAlves">
+  <a href="https://github.com/Mnathanflp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MateusSouzaAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
 </div>
