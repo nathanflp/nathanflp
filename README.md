@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 eu sou desenvolvedor Back-end e atualmente trabalho com Java.
+🔭 Sou desenvolvedor Back-end e trabalho com Java.
 
 
 🌱 Atualmente tenho focado meus estudos em rabbitmq e docker.
