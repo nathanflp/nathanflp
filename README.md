@@ -6,13 +6,13 @@
 
 <div align="center">
   
-🔭 Sou desenvolvedor Back-end e trabalho com Java.
+🔭 Sou desenvolvedor Back-end, tenho 2 anos de experiência e trabalho com Java.
 
 
-🌱 Atualmente tenho focado meus estudos em rabbitmq e docker.
+🌱 Atualmente tenho focado em rabbitmq e docker.
 
 
-💬 Sou entusiasta no desenvolvimento Java para APIs.
+💬 Sou entusiasta no desenvolvimento com Java para APIs.
 
 
 </div>
