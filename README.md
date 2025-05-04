@@ -6,10 +6,10 @@
 
 <div align="center">
   
-🔭 Sou desenvolvedor Back-end, tenho 2 anos de experiência e trabalho com Java.
+🔭 Sou desenvolvedor Back-end focado em Java e Spring Boot.
 
 
-🌱 Atualmente tenho focado em rabbitmq e docker.
+🌱 Atualmente meu foco esta em Docker e Mensageria.
 
 
 💬 Sou entusiasta no desenvolvimento com Java para APIs.
@@ -26,7 +26,7 @@
  </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,postman,git,github,idea"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,postman,docker,idea,git,github,bitbucket"/>
   </a>
 </p>
 </div>
